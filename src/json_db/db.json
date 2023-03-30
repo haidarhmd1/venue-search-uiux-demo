@@ -1,0 +1,93 @@
+{
+    "data": [
+        {
+            "id": "550e8400-e29b-11d4-a716-446655440000",
+            "image": "https://picsum.photos/700",
+            "title": "Delicious Mediterranean Cuisine",
+            "description": "Experience the flavors of the Mediterranean with our authentic dishes and fresh ingredients.",
+            "closed": false,
+            "address": "Main Street 123, 12345 Berlin",
+            "price_range": 3,
+            "food_category": ["Mediterranean"]
+        },
+        {
+            "id": "550e8400-e29b-11d4-a716-446655440001",
+            "image": "https://picsum.photos/700",
+            "title": "Middle Eastern Delights",
+            "description": "Treat yourself to our delicious Middle Eastern cuisine, featuring traditional dishes and modern twists.",
+            "closed": true,
+            "address": "Market Street 456, 67890 Frankfurt",
+            "price_range": 2,
+            "food_category": ["Middle Eastern"]
+        },
+        {
+            "id": "550e8400-e29b-11d4-a716-446655440002",
+            "image": "https://picsum.photos/700",
+            "title": "International Fusion",
+            "description": "Savor the flavors of the world with our unique fusion dishes, inspired by global cuisines and local ingredients.",
+            "closed": false,
+            "address": "Broadway 789, 54321 Munich",
+            "price_range": 4,
+            "food_category": ["International"]
+        },
+        {
+            "id": "550e8400-e29b-11d4-a716-446655440003",
+            "image": "https://picsum.photos/700",
+            "title": "German Classics",
+            "description": "Indulge in the hearty flavors of Germany with our classic dishes and seasonal specialties.",
+            "closed": false,
+            "address": "High Street 456, 12345 Berlin",
+            "price_range": 2,
+            "food_category": ["German"]
+        },
+        {
+            "id": "550e8400-e29b-11d4-a716-446655440004",
+            "image": "https://picsum.photos/700",
+            "title": "Coffee & More",
+            "description": "Relax and recharge with our specialty coffee drinks, pastries, and light bites.",
+            "closed": true,
+            "address": "Main Square 789, 67890 Frankfurt",
+            "price_range": 1,
+            "food_category": ["Coffee", "Vegetarian"]
+        },{
+            "id": "550e8400-e29b-11d4-a716-446655440004",
+            "image": "https://picsum.photos/700",
+            "title": "German Delicacies",
+            "description": "Enjoy the hearty and savory flavors of traditional German cuisine at our cozy restaurant.",
+            "closed": false,
+            "address": "Heidelberg Strasse 12, 78901 Stuttgart",
+            "price_range": 3,
+            "food_category": ["German"]
+        },
+        {
+            "id": "550e8400-e29b-11d4-a716-446655440005",
+            "image": "https://picsum.photos/700",
+            "title": "Coffee and Tea Time",
+            "description": "Indulge in our aromatic coffee and tea selections, paired with delicious pastries and desserts.",
+            "closed": false,
+            "address": "Potsdamer Platz 1, 10117 Berlin",
+            "price_range": 2,
+            "food_category": ["Coffee", "Dessert"]
+        },
+        {
+            "id": "550e8400-e29b-11d4-a716-446655440006",
+            "image": "https://picsum.photos/700",
+            "title": "Mediterranean Seafood",
+            "description": "Experience the taste of the Mediterranean coast with our fresh and delicious seafood dishes.",
+            "closed": false,
+            "address": "Kurfürstendamm 234, 10719 Berlin",
+            "price_range": 4,
+            "food_category": ["Mediterranean", "Seafood"]
+        },
+        {
+            "id": "550e8400-e29b-11d4-a716-446655440007",
+            "image": "https://picsum.photos/700",
+            "title": "Vegetarian Paradise",
+            "description": "Discover the delicious and healthy world of vegetarian cuisine with our creative and flavorful dishes.",
+            "closed": true,
+            "address": "Schönhauser Allee 123, 10435 Berlin",
+            "price_range": 2,
+            "food_category": ["Vegetarian", "International"]
+        }
+    ]
+}
